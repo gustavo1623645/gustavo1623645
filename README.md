@@ -1,7 +1,11 @@
 # <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150"/> Bienvenid@
 # <img src="github-header-image.png"/>
-![Linkedin](https://img.shields.io/badge/linkedin-%23E34F26.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Facebook](https://img.shields.io/badge/facebook-%23E34F26.svg?style=for-the-badge&logo=facebook&logoColor=white)
+
+## Social 💻
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCfd-NHkTzVxmqb58f3LXXXg)
+[![Linkedin](https://img.shields.io/badge/linkedin-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoramirezlopez)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/gustavo.ramirez.Lopez999)
 
 Encuentra algunos de los proyectos que he realizado.
 
@@ -25,9 +29,9 @@ Encuentra algunos de los proyectos que he realizado.
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
+## Statistics 💻
 
-
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo1623645&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo1623645&layout=compact&theme=dark)
+![Gustavo' GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo1623645&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo1623645&layout=compact&theme=dark)
 
 
 
